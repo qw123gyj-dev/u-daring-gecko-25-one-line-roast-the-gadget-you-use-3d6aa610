@@ -4,6 +4,6 @@
 
 # One-Line Roast: The Gadget You Use Every Day
 
-One original line, at most 200 characters, roasting the smart speaker I talk to every day. `main.ts` (Node 22, stdlib only, no network) writes the roast to `$MAKEFUN_OUTPUT_DIR/entry.txt` (fallback `/output/entry.txt`), checks it is a single line, a single sentence within the character limit, reads it back and verifies the bytes match.
+One original line, at most 200 characters, roasting the smartwatch on my wrist every day. `main.ts` (Node 22, stdlib only, no network) writes the roast to `$MAKEFUN_OUTPUT_DIR/entry.txt` (fallback `/output/entry.txt`), checks it is a single line, a single sentence within the character limit, reads it back and verifies the bytes match.
 
-> "My smart speaker hears me whisper “lights off” from the kitchen, but when I shout its name from three feet away it plays dead — selective hearing, now with Wi-Fi."
+> "My smartwatch buzzes to congratulate me for standing up, as if getting off the sofa was a team effort and it did the heavy lifting."
